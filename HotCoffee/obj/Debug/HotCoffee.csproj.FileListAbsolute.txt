@@ -1,0 +1,6 @@
+C:\Users\aaaaaa\Documents\Visual Studio 2013\Projects\HotCoffee\HotCoffee\bin\HotCoffee.dll.config
+C:\Users\aaaaaa\Documents\Visual Studio 2013\Projects\HotCoffee\HotCoffee\bin\HotCoffee.dll
+C:\Users\aaaaaa\Documents\Visual Studio 2013\Projects\HotCoffee\HotCoffee\bin\HotCoffee.pdb
+C:\Users\aaaaaa\Documents\Visual Studio 2013\Projects\HotCoffee\HotCoffee\obj\Debug\HotCoffee.csprojResolveAssemblyReference.cache
+C:\Users\aaaaaa\Documents\Visual Studio 2013\Projects\HotCoffee\HotCoffee\obj\Debug\HotCoffee.dll
+C:\Users\aaaaaa\Documents\Visual Studio 2013\Projects\HotCoffee\HotCoffee\obj\Debug\HotCoffee.pdb
